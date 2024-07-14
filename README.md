@@ -1,4 +1,4 @@
-# **Churn Prediction System**
+# **Churnify - A Churn Prediction System**
 
 ## **Overview**
 This project is a churn prediction system trained on a Kaggle dataset. It demonstrates the process of loading data, preprocessing, building, training, and evaluating a machine learning model to predict customer churn. The goal is to identify customers who are likely to cancel their subscription.
@@ -32,7 +32,7 @@ Before running this project, make sure to download the dataset from the provided
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ChurnPredictionSystem.git
+    git clone https://github.com/parmarsunny125/Churnify.git
     ```
 
 2. Navigate to the project directory:
